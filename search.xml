@@ -3,15 +3,21 @@
   <entry>
     <title>使用hexo博客搭建的个人博客,使用Next主题来进行深化改造</title>
     <url>/2019/10/11/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/</url>
-    <content><![CDATA[<p>欢迎大家来到我的博客</p>
+    <content><![CDATA[<p>主要分享自己在搭建hexo博客学到的技术，以此总结。</p>
 <a id="more"></a>
 
+<h5 id="01-安装-Node-js"><a href="#01-安装-Node-js" class="headerlink" title="01.安装 Node.js"></a>01.安装 Node.js</h5><p>打开<a href="https://nodejs.org/en/" target="_blank" rel="noopener">官方网站</a></p>
+<p><img src="https://caiyantao.gitee.io/2019/04/13/Hexo-%E4%B8%80/267b6d6d335cf62907c70321a1cbd3b.png" alt="下载方式"></p>
+<p>安装步骤非常简单，一直next，下一步就可以了，默认安装就行。</p>
+<p><img src="https://caiyantao.gitee.io/2019/04/13/Hexo-%E4%B8%80/205266cc7bbd59bbf8663fd1f775e36.png" alt="next"></p>
+<p>以管理员的身份运行cmd来验证下是否成功安装</p>
+<p><img src="http://a3.qpic.cn/psb?/V11ghR0m2QknZM/JKfaoUcP4CzsVKNXgnURM0yT1qM0FA3F9Dt*8pv45n0!/m/dFYBAAAAAAAAnull&bo=rgX2Aq4F9gIDByI!&rf=photolist&t=5" alt="验证"></p>
 <hr>
-<h5 id="第一章"><a href="#第一章" class="headerlink" title="第一章"></a>第一章</h5><p>哈哈哈哈哈</p>
-<hr>
-<h5 id="第二章"><a href="#第二章" class="headerlink" title="第二章"></a>第二章</h5><p>我很开心</p>
-<hr>
-<h5 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h5><p><a href="http://www.Mrxiang.com" target="_blank" rel="noopener">www.Mrxiang.com</a></p>
+<h5 id="02-安装-Git"><a href="#02-安装-Git" class="headerlink" title="02.安装 Git"></a>02.安装 Git</h5><p>打开<a href="https://git-scm.com/download/win" target="_blank" rel="noopener">官方网站</a></p>
+<p>然后我们选择windows版本的下载 </p>
+<p><img src="http://a4.qpic.cn/psb?/V11ghR0m2QknZM/IvfDKVPj6Ji11VlcMY9uK*s0QgOgks0tILrqmNvsSws!/m/dL8AAAAAAAAAnull&bo=6AMEA.gDBAMDByI!&rf=photolist&t=5" alt="安装Git"></p>
+<p>安装也是一直点下一步，安装官方默认的来就行，<br>完了，在开始菜单可以看到 </p>
+<p><img src="http://a1.qpic.cn/psb?/V11ghR0m2QknZM/8w1vgyjr2pw3GhrWisPGjCeaB3GVey*dyjErVpb2Hlg!/m/dAgBAAAAAAAAnull&bo=rgU4A64FOAMDByI!&rf=photolist&t=5" alt="验证安装"></p>
 <hr>
 ]]></content>
       <categories>
